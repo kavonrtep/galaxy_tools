@@ -1,0 +1,10 @@
+categories:
+- Genome anotation
+description: various tools from https://github.com/galaxyproject/galaxy
+homepage_url: https://github.com/galaxyproject/galaxy
+name: galaxy_tools
+owner: petr-novak
+exclude:
+  - tmp
+  - notes.md
+
